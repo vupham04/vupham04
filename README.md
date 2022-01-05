@@ -10,6 +10,9 @@
 📄 &nbsp;Have a look at my [resumé](https://github.com/vupham04/vupham04.github.io/blob/main/files/Vu%20Pham%20-%20Resume.pdf) for more details about me.\
 🌐 &nbsp;Check out my website: https://percypham.me.
 
+### 📜 &nbsp;Certificates
+List of the certificates from courses/projects that I self-study online: [Certificate List](Certificate.md)
+
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -34,6 +37,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+<!--
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -42,3 +46,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vupham04&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+-->
